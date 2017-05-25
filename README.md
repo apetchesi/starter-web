@@ -15,3 +15,7 @@ The purpose is here
 ### Third level
 
 extra stuff
+
+### Copyright
+
+cOPYRIGHT NOTICE TRAINING
