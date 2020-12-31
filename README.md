@@ -2,6 +2,8 @@
 
 This is  simple project for demo purposes.
 Here
+Add new stuff in here
+SAve this again to see what is going on
 
 ## This repository is for showing how Git and GitHub work
 
