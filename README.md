@@ -10,9 +10,10 @@ Extra stuff
 ## Purpose
 
 The purpose is here
-There
+There U go
 
 ## Sample website with plenty of files for demos
+here they are for U
 
 ### Third level
 
