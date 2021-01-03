@@ -1,8 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+# adding niu stuff
+
 # TEAM
 	Jason Taylor 	jason@git.training	@awesomejt
+	Second option added here
     <name> -- <role> -- <twitter>
 
 # THANKS
