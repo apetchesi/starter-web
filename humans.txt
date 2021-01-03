@@ -9,6 +9,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
+Thanks to all the students
 
     <name>
 
