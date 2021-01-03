@@ -8,6 +8,7 @@ SAve this again to see what is going on
 ## This repository is for showing how Git and GitHub work
 
 Extra stuff
+More feature from branch
 
 ## Purpose
 
